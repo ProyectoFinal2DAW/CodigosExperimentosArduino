@@ -1,2 +1,2 @@
-#define SECRET_SSID "DAW-11"
-#define SECRET_PASS "monlau1982"
+#define SECRET_SSID "poner nombre wifi"
+#define SECRET_PASS "poner contraseña wifi"
